@@ -1,7 +1,7 @@
 <p align='center'>
   <img src='https://www.facebook.com/images/fb_icon_325x325.png' />
 </p>
-<h1 align='center'>FB-clone Project</h1>
+<h1 align='center' width='120px'>FB-clone Project</h1>
 
 
 
