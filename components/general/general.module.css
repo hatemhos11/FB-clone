@@ -1,0 +1,11 @@
+.Button{
+    @apply py-3 rounded-md w-full text-white sm:text-xl font-bold select-none;
+}
+/* ---------------- */
+
+.InputParent{
+    @apply relative overflow-x-hidden;
+}
+.Input{
+    @apply w-full bg-transparent outline-none border border-gray-200 placeholder:text-gray-400 focus:placeholder:text-gray-300 rounded-md;
+}

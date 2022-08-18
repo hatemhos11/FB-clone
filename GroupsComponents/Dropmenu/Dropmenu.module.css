@@ -1,0 +1,8 @@
+.DropmenuGroup{
+    @apply absolute bg-white w-[350px] flex flex-col mr-2 p-0 rounded-xl z-30 overflow-hidden ;
+    box-shadow: 0 0 4px;
+}
+
+.DropmenuItem{
+    @apply p-3 hover:bg-gray-100 flex items-center right-5 ;
+}
