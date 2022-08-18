@@ -1,5 +1,11 @@
-# FB-clone Project
-![facebook](![image](https://user-images.githubusercontent.com/76979133/185354873-dd67aad5-23ca-4ad3-8d35-f270bfcf1f5a.png))
+<p align='center'>
+  <img src='https://www.facebook.com/images/fb_icon_325x325.png' />
+</p>
+<h1 align='center'>FB-clone Project</h1>
+
+
+
+
 
 <p align='center'>
   <img  src='https://s4.gifyu.com/images/FB-clone.gif' />
